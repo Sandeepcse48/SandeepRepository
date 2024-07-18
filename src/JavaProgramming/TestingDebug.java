@@ -1,9 +1,6 @@
 package JavaProgramming;
 
-<<<<<<< Updated upstream
 
-=======
->>>>>>> Stashed changes
 
 public class TestingDebug {
 
