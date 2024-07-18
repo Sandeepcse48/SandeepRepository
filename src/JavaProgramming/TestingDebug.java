@@ -13,6 +13,7 @@ public class TestingDebug {
 	int c = 40;
 =======
 	int d = 40;
+        int f = 60;
 >>>>>>> master
 	public static void main(String[] args) {
 		
