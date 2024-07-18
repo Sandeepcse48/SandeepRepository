@@ -9,7 +9,11 @@ public class TestingDebug {
 
 	final int a = 20;
 	int b = 30;
+<<<<<<< HEAD
 	int c = 40;
+=======
+	int d = 40;
+>>>>>>> master
 	public static void main(String[] args) {
 		
         TestingDebug td = new TestingDebug();
