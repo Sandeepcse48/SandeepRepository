@@ -33,7 +33,7 @@ public class Constructor {
 			revNumber = b + revNumber;
 		}
 		
-		System.out.println(Integer.valueOf(revNumber));
+		//System.out.println(Integer.valueOf(revNumber));
 	}
 	static int c = 0; 
 	public static void Number(int num)
